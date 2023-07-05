@@ -1,0 +1,47 @@
+#h2{
+    color: white;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 7.50em;
+    margin-block-end: -0.53em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+#h1{
+    color: white;
+    display: block;
+    font-size: 4em;
+    margin-block-start: 0.37em;
+    margin-block-end: 0.1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+#p{
+    font-size: 1em;
+    margin-block-start: 0.37em;
+    margin-block-end: 0.1em;
+}
+#span{
+    color: red;
+}
+
+#main{
+    /* display: flex; */
+    justify-content: center;
+}
+.cont-header
+{
+    size :40px;
+    color:white;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.header-btns {
+    display: flex;
+    margin-top: 40px;
+    margin-left: 44%;
+}
